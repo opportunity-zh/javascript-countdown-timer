@@ -1,0 +1,11 @@
+body {
+  background-color: #226;
+  color: #aff;
+  font-family: monospace;
+  text-align: center;
+}
+
+p {
+  font-size: 3rem;
+  margin: 0;
+}
